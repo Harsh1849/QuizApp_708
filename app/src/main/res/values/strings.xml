@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="sit305_quiz_app">SIT305 Quiz App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="please_enter_your_name">Please first enter your name</string>
+    <string name="start">START</string>
+    <string name="android_questions_title">Android questions title:</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="your_score">Your score:</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+    <string name="Please_wait">Please Wait.</string>
+    <string name="check_internet">Check your internet connection</string>
+
+</resources>
